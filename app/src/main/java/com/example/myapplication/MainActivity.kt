@@ -55,4 +55,4 @@ fun GreetingPreview() {
     MyApplicationTheme {
         Greeting(text = "Khrystyna Bukatiuk")
     }
-}
+}5
